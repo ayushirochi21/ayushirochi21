@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayushirochi21
 - 👀 I’m interested in coding and app development skills.
-- 🌱 I’m currently learning c programming,HTML,Python and Java.
+- 🌱 Full Stack Developer, Languages known-C,Java,Python,JS
 - 💞️ I’m looking to collaborate on competitive programming,competitions,group projects and working under skilled programmers.
 - 📫 How to reach me ayushi.twentyfirst@gmail.com or you can DM me on https://www.instagram.com/shree.random.21/
