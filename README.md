@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding and app development skills.
 - 🌱 Full Stack Developer, Languages known-C,Java,Python,JS
 - 💞️ I’m looking to collaborate on competitive programming,competitions,group projects and working under skilled programmers.
-- 📫 How to reach me ayushi.twentyfirst@gmail.com or you can DM me on https://www.instagram.com/shree.random.21/
+- 📫 How to reach me ayushi.twentyfirst@gmail.com or you can DM me on https://www.linkedin.com/in/ayushi-varshney-815898296/
